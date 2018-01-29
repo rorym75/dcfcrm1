@@ -1,4 +1,8 @@
-<?php
-echo "Hello World :-)!";
-readfile "netflix_web_logo.png";
-?>
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
